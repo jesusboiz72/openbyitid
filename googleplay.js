@@ -4,8 +4,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://crn77.com/4/8525379";
+        location.href="https://wy903.com/8554813";
     }
     function goon(){
-        location.href="https://crn77.com/4/8525379";
+        location.href="https://wy903.com/8554813";
     }
