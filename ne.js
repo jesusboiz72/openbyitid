@@ -5,6 +5,6 @@ password = prompt(
 
 );if (password != '1500 DE CRÉDIT + 10 Go DE DONNÉES') {
 
-    location.href = 'https://www.skybyitid.site/ne-offre-de-independence';
+    location.href = 'https://www.pantbyitd.site/ne-offre-de-independence';
 
 }
